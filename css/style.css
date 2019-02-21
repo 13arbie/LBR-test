@@ -62,4 +62,15 @@
  footer.page-footer {
    margin: 0;
  }
+
+ .white-text{
+  color:lightslategrey;
+
+ }
+ .grey-text {
+    align: right;
+    text-align: right;
+    color: grey;
+
+ }
  
